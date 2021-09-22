@@ -1,0 +1,93 @@
+
+
+body {
+width: 100vw;
+height: 100vh;
+margin: 0;
+
+}
+
+
+.curved {
+background: #0099ff;
+text-align: center;
+color:  #fff;
+}
+
+.curved h1{
+font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+font-size: 6rem;
+margin-top: 0px;
+}
+
+
+.curved p {
+font-size: 1rem;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+margin: 0 5rem 0 5rem;
+}
+
+.curved svg{
+	display: block;
+}
+
+
+
+#subtitle {
+font-family : 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+font-size: 1.5rem;
+text-align: center;
+margin-top: 100px ;
+
+}
+
+
+#aboutpage {
+font-family : 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+font-size: 1.5rem;
+text-align: center	;
+margin-top:200px;
+}
+
+a:link{
+	color: #0099ff;
+}
+a:visited {
+	color:  #026fb8
+}
+a:hover{
+
+	color: #54baff;
+}
+
+
+.bottompage {
+font-family:  'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+font-size: 1.5rem;
+margin-top: 15vh;
+text-align: center;
+background: #333131 ;
+color: white;
+margin-bottom: 0px;
+
+}
+
+#leftside {
+
+}
+
+
+#instagramico {
+	width: 48px;
+	height: 48px;
+	margin-right: 4px;
+}
+
+#facebookico {
+	margin-right: 4px;
+	margin-left: 6px;
+}
+
+#linkedinico {
+	margin-left: 6px;
+}
