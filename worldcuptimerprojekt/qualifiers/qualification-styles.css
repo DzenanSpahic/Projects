@@ -1,0 +1,61 @@
+body { 
+    margin: 0px;
+    background-color: #69173f;
+}
+
+#logoafc { 
+    width: 134px;
+    height: 165px;
+    margin-left: 10%;
+    margin-top: 10%;
+
+}
+.logoafc { 
+    background-color: white;
+    width: 350px;
+    height: 331px;
+    border-bottom-right-radius: 150%;
+}
+.tables {
+    position: absolute;
+    background-color: white;
+    min-width: 50%;
+    border-radius: 40px;
+    padding: 10px;
+    left: 700px;
+    bottom: 10%;
+
+}
+.tables p { 
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.return { 
+    position: absolute;
+    top: 205px;
+    left: 55px;
+
+
+
+
+}
+.return span {   
+    padding: 10px 20px;
+    display: inline-block;
+    border: none;
+    font-size: 16px;
+    background-color: white;
+    border: 1px solid #69173f;
+    border-radius: 10px;
+    color: rgb(105, 16, 16);
+
+}
+span:hover { 
+    color: white;
+    background-color: #69173f;
+    transition: 0.4s;
+    border: 1px solid #922459
+}
+.return a { 
+    text-decoration: none;
+}

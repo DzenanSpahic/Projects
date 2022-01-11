@@ -1,0 +1,120 @@
+ <div class = "tables">
+        <h3 id = "tableTitle">Choose qualifier region</h3>
+        <div class = "regions">
+        <a href = "uefaqualifiers.html" id = "uefaqualifiers">UEFA</a>
+        <a href = "conmebolqual.html" id = "conmebolqual">CONMEBOL</a>    
+        <a href = "afcqual.html" id = "afcqual">AFC</a> 
+        <a href = "cafqual.html" id = "cafqual">CAF</a>
+        <a href = "concacafqual.html" id = "concacafqual">CONCACAF</a>
+        <a href = "ofcqual.html" id = "ofcqual">OFC</a>
+        </div>
+
+    </div>
+
+<button>CAF</button>
+        <button>CONCACAF</button>
+        <button>CONMEBOL</button>
+        <button>OFC</button>
+        <button>UEFA</button>
+
+
+
+
+
+
+    .uefaqualtitle {
+font-size: 15px;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+background-color: rgb(77, 83, 83);
+width: 100%;
+color: white;
+padding: 10px;
+text-align: center;
+}
+
+.groups1 { 
+    display: inline-flex;
+    background-color: whitesmoke;
+    padding: 30px;
+    border-radius: 15px;
+    height: 40%;
+    margin-top: 10px;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+#sofa-standings-embed-1758-35021 { 
+    margin-left:5px;
+    margin-right:5px;
+    
+}
+
+#sofa-standings-embed-1761-35021 { 
+ margin-left: 5px;
+ margin-right: 5px;
+}
+.regions{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+}
+
+
+#uefaqualifiers {
+text-decoration: none;
+border: greenyellow 2px solid;
+color:rgb(34, 54, 34);
+padding:4px;
+transition: background-color 0.3s ease-out 100ms;
+border-radius: 5px;
+}
+#conmebolqual {
+    text-decoration: none;
+    border: greenyellow 2px solid;
+    color:rgb(34, 54, 34);
+    padding:4px;
+    transition: background-color 0.3s ease-out 100ms;
+    border-radius: 5px;
+    }
+
+#afcqual {
+    text-decoration: none;
+    border: greenyellow 2px solid;
+    color:rgb(34, 54, 34);
+    padding:4px;
+    transition: background-color 0.3s ease-out 100ms;
+    border-radius: 5px;
+}
+#cafqual {
+    text-decoration: none;
+    border: greenyellow 2px solid;
+    color:rgb(34, 54, 34);
+    padding:4px;
+    transition: background-color 0.3s ease-out 100ms;
+    border-radius: 5px;
+}
+#concacafqual {
+    text-decoration: none;
+    border: greenyellow 2px solid;
+    color:rgb(34, 54, 34);
+    padding:4px;
+    transition: background-color 0.3s ease-out 100ms;
+    border-radius: 5px;
+}
+#ofcqual {
+    text-decoration: none;
+    border: greenyellow 2px solid;
+    color:rgb(34, 54, 34);
+    padding:4px;
+    transition: background-color 0.3s ease-out 100ms;
+    border-radius: 5px;
+}
+a:hover {
+background-color: greenyellow;
+}
+
+#tableTitle{
+text-align:  center;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+font-size: 25px;
+}
